@@ -12,3 +12,7 @@ html.body.textContent  // [2]
 
 1. Parses a string as DOM and returns an HTMLDocument (document root element).
 1. Get only text in the `textContent` property of the `body` element.
+
+### Compatibility
+
+- [DOMParser API: parseFromString: HTML (text/html) support | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/mdn-api_domparser_parsefromstring_html)

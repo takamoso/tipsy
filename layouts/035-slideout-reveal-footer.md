@@ -39,3 +39,8 @@ https://github.com/takamoso/tipsy/assets/35029412/36712972-4d25-404e-bef4-b2cb20
 1. Use `position: sticky;` to fix it in the lower left corner.
 1. Prevent `.footer` from being hidden under `.main` when `.footer` is larger than the browser height.
 1. Fill the `.footer` to the full width of the browser.
+
+### Compatibility
+
+- [Small, Large, and Dynamic viewport units | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/viewport-unit-variants)
+- [CSS position:sticky | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/css-sticky)
