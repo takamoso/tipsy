@@ -30,7 +30,7 @@ body {
 
 1. Make `body` at least the full height of the browser to anchor `.footer` to the bottom.
 
-2. Use `position: sticky;` to fix it at `100%` of the full browser height from the top of the screen.
+2. Use `position: sticky;` to fix it at `100%` of the full browser height from the top of the screen. Normally, the position is fixed at `100%` of the browser height, so it will be outside the screen, but if `position: sticky;` is used, it will be drawn to fit within the scrolling area according to the following specification.
 
   > For each side of the box, if the corresponding inset property is not auto, and the corresponding border edge of the box would be outside the corresponding edge of the sticky view rectangle, then the box must be visually shifted (as for relative positioning) to be inward of that sticky view rectangle edge, insofar as it can while its position box remains contained within its containing block.
 
