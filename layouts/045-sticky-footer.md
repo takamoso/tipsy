@@ -38,3 +38,9 @@ body {
 3. Currently MacOS Chrome 118 renders a gap of `0.5px` under the footer as shown below. So, if you specify `will-change: transform;` it will be rendered correctly with GPU acceleration and stacking context.
 
   ![](https://github.com/takamoso/tipsy/assets/35029412/3ca30363-5c50-48af-b92e-88e91b568fb1)
+
+### Compatibility
+
+- [Small, Large, and Dynamic viewport units | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/viewport-unit-variants)
+- [CSS position:sticky | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/css-sticky)
+- [CSS will-change property | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/will-change)
