@@ -2,7 +2,7 @@
 
 Scroll to the bottom of the page, and the footer slides out from under the main content.
 
-https://github.com/takamoso/tipsy/assets/35029412/22d6424c-7af9-4536-a2c7-1b4e1f30e83b
+https://github.com/takamoso/tipsy/assets/35029412/36712972-4d25-404e-bef4-b2cb2008ad85
 
 <p align="center">
   <a href="https://codepen.io/takamoso/pen/BavrgoO">CodePen Demo</a>
