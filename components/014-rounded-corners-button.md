@@ -2,6 +2,8 @@
 
 Conventionally, large values such as `9999px` were used to create rounded corner buttons.
 
+![](https://github.com/takamoso/tipsy/assets/35029412/71be12d6-459f-4988-b41f-6091ec2ac60e)
+
 <p align="center">
   <a href="https://codepen.io/takamoso/pen/ZEqGKgY">CodePen Demo</a>
 </p>
