@@ -1,4 +1,4 @@
-## 035. Footer Slides Out from the Bottom
+## 035. Slide Out Footer from the Bottom
 
 Scroll to the bottom of the page, and the footer slides out from under the main content.
 
