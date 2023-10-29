@@ -24,7 +24,7 @@ The separator lines used in the menu bar of desktop applications can also be exp
 
 1. The HTML Living Standard now allows the inclusion of a `<hr>` element within a `<select>` element, Chrome 119 and Safari 17 support this, but both have accessibility issues. This is fine for decorative delimiters, but be careful if you are using meaningful delimiters.
 
-- Chrome 119+.
+- Chrome 119+
   - Not showing up in the accessibility tree.
   - Not being read out loud in JAWS or TalkBack.
 - Safari 17+
