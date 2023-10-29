@@ -33,7 +33,7 @@ The separator lines used in the menu bar of desktop applications can also be exp
 
 ### For Reference
 
-- [Allow <hr> to add a separator line within <select>! - X(Twitter)](https://x.com/takamosoo/status/1710108534023823649)
+- [Allow &lt;hr> to add a separator line within &lt;select>! - X(Twitter)](https://x.com/takamosoo/status/1710108534023823649)
 - [4.10.7 The select element - HTML Living Standard](https://html.spec.whatwg.org/multipage/form-elements.html#the-select-element)
 - [Splitting within Selects — Adrian Roselli](https://adrianroselli.com/2023/10/splitting-within-selects.html)
 
