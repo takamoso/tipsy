@@ -22,7 +22,7 @@ The separator lines used in the menu bar of desktop applications can also be exp
 </select>
 ```
 
-1. The HTML Living Standard now allows the inclusion of a `<hr>` element within a `<select>` element; as of October 30, 2023, Chrome 119 and Safari 17 support this, but both have accessibility issues. This is fine for decorative delimiters, but be careful if you are using meaningful delimiters.
+1. The HTML Living Standard now allows the inclusion of a `<hr>` element within a `<select>` element, Chrome 119 and Safari 17 support this, but both have accessibility issues. This is fine for decorative delimiters, but be careful if you are using meaningful delimiters.
 
 - Chrome 119+.
   - Not showing up in the accessibility tree.
@@ -33,7 +33,7 @@ The separator lines used in the menu bar of desktop applications can also be exp
 
 ### For Reference
 
-- [Allow &lt;hr> to add a separator line within &lt;select>! - X(Twitter)](https://x.com/takamosoo/status/1710108534023823649)
+- [Allow &lt;hr> to add a separator line within &lt;select> - X(Twitter)](https://x.com/takamosoo/status/1710108534023823649)
 - [4.10.7 The select element - HTML Living Standard](https://html.spec.whatwg.org/multipage/form-elements.html#the-select-element)
 - [Splitting within Selects — Adrian Roselli](https://adrianroselli.com/2023/10/splitting-within-selects.html)
 
