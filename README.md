@@ -1,6 +1,7 @@
 - **Tags**
   - [001. Strip HTML Tags from String](tags/001-strip-html-tags-from-string.md)
   - [019. Override Form Attribute](tags/019-override-form-attribute.md)
+  - [038. Select with Horizontal Rules](tags/038-hr-in-select.md)
 - **Layouts**
   - [035. Slide Out Footer from the Bottom](layouts/035-slideout-reveal-footer.md)
   - [045. Sticky Footer](layouts/045-sticky-footer.md)
