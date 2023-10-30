@@ -1,9 +1,9 @@
 - **Tags**
-  - [001. Strip HTML Tags from String](tags/001-strip-html-tags-from-string.md)
-  - [019. Override Form Attribute](tags/019-override-form-attribute.md)
-  - [038. Select with Horizontal Rules](tags/038-hr-in-select.md)
+  - [001. Strip HTML Tags from String](tags/001-js-strip-html-tags-from-string.md)
+  - [019. Override Form Attribute](tags/019-html-override-form-attribute.md)
+  - [038. Select with Horizontal Rules](tags/038-html-hr-in-select.md)
 - **Layouts**
-  - [035. Slide Out Footer from the Bottom](layouts/035-slideout-reveal-footer.md)
-  - [045. Sticky Footer](layouts/045-sticky-footer.md)
+  - [035. Slide Out Footer from the Bottom](layouts/035-css-slideout-reveal-footer.md)
+  - [045. Sticky Footer](layouts/045-css-sticky-footer.md)
 - **Components**
-  - [014. Rounded Corners Button](components/014-rounded-corners-button.md)
+  - [014. Rounded Corners Button](components/014-css-rounded-corners-button.md)
