@@ -25,6 +25,10 @@ You can freely change the color of the image specified by `url()` in the backgro
 
 1. If you write it as inline SVG on HTML, you can use `fill` or `stroke` attribute to change the color, but the `url()` function is treated as an external resource, so you cannot overwrite it from CSS. You can use the `mask-image` property to crop the image in the form of an icon, and specify the color you want to change in the background color.
 
+### For Reference
+
+- [Change the color of icons specified by inline SVG on background with CSS - X(Twiiter)](https://twitter.com/takamosoo/status/1719178961555767447)
+
 ### Compatibility
 
 - [CSS property: mask-image | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/mdn-css_properties_mask-image)
