@@ -46,3 +46,7 @@ The corresponding attributes are as follows.
 | `action` | `formaction` |
 | `target` | `formtarget` |
 | `enctype` | `formenctype` |
+
+### For Reference
+
+- [Override <form> element attributes with <input> or <button> elements - X(Twitter)](https://x.com/takamosoo/status/1683394515997196288)

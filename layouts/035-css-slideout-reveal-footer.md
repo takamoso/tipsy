@@ -40,6 +40,10 @@ https://github.com/takamoso/tipsy/assets/35029412/36712972-4d25-404e-bef4-b2cb20
 1. Prevent `.footer` from being hidden under `.main` when `.footer` is larger than the browser height.
 1. Fill the `.footer` to the full width of the browser.
 
+### For Reference
+
+- [Footer that slides like a curtain from the bottom - X(Twitter)](https://x.com/takamosoo/status/1706957528159182930)
+
 ### Compatibility
 
 - [Small, Large, and Dynamic viewport units | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/viewport-unit-variants)

@@ -41,6 +41,7 @@ body {
 
 ### For Reference
 
+- [Footer that is fixed at the bottom when there is little content and pushed out as it is when there is a lot of content - X(Twitter)](https://x.com/takamosoo/status/1716645917670179186)
 - [CSS Positioned Layout Module Level 3 - 3.4. Sticky positioning](https://www.w3.org/TR/css-position-3/#stickypos-insets)
 
 ### Compatibility

@@ -28,6 +28,7 @@ Conventionally, large values such as `9999px` were used to create rounded corner
 
 ### For Reference
 
+- [Generic rounded corner buttons with CSS infinity values - X(Twitter)](https://x.com/takamosoo/status/1677283207602139136)
 - [CSS Values and Units Module Level 4 - 10.7. Numeric Constants](https://www.w3.org/TR/css-values-4/#calc-constants)
 
 ### Compatibility
