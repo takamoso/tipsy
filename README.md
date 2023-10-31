@@ -2,6 +2,8 @@
   - [001. Strip HTML Tags from String](tags/001-js-strip-html-tags-from-string.md)
   - [019. Override Form Attribute](tags/019-html-override-form-attribute.md)
   - [038. Select with Horizontal Rules](tags/038-html-hr-in-select.md)
+- **Shapes**
+  - [048. Change SVG Fill Color](shapes/048-css-change-svg-fill-color.md)
 - **Layouts**
   - [035. Slide Out Footer from the Bottom](layouts/035-css-slideout-reveal-footer.md)
   - [045. Sticky Footer](layouts/045-css-sticky-footer.md)
