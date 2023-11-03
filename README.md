@@ -1,6 +1,7 @@
 - **Tags**
   - [001. Strip HTML Tags from String](tags/001-js-strip-html-tags-from-string.md)
   - [019. Override Form Attribute](tags/019-html-override-form-attribute.md)
+  - [033. Get Input Associated with Label](tags/033-js-get-input-associated-with-label.md)
   - [038. Select with Horizontal Rules](tags/038-html-hr-in-select.md)
 - **Shapes**
   - [048. Change SVG Fill Color](shapes/048-css-change-svg-fill-color.md)
