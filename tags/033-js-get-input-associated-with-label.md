@@ -22,4 +22,4 @@ document.querySelector('#input')?.labels  // [1]
 // ]
 ```
 
-1. If you use the `document.querySelector('#input')?.closest('label')` or `document.querySelector('label[for="#input"]')`, you can use the `labels` property to get `<label >` elements linked as a NodeList.
+1. If you use the `document.querySelector('#input')?.closest('label')` or `document.querySelector('label[for="#input"]')`, you can use the `labels` property to get `<label>` elements linked as a NodeList.
